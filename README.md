@@ -1,5 +1,5 @@
 # Распознавание Русской Речи
-[![Heard by 🎙️](https://a.b-b.top/badge.svg?repo=voice_to_text&label=Heard%20by%20🎙️&background_color=ff5722&background_color2=ff7043&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
+[![Heard by 🎙️](https://a.b-b.top/badge.svg?repo=voice_to_text&label=Heard&background_color=ff5722&background_color2=ff7043&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
 
 Приложение для распознавания русской речи в реальном времени с использованием искусственного интеллекта.
 
